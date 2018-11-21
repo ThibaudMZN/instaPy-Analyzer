@@ -1,0 +1,22 @@
+{
+  "name": "instapy-supervisor",
+  "version": "0.0.1",
+  "description": "instaPy data analyser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/TMZN/instapy-supervisor.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "tmzn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/TMZN/instapy-supervisor/issues"
+  },
+  "homepage": "https://gitlab.com/TMZN/instapy-supervisor#README"
+}

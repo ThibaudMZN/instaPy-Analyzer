@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "folder": {
+      "instaPy": "C:\\Users\\TITI\\AppData\\Local\\Programs\\Python\\Python35-32\\Lib\\site-packages\\logs\\esquisse_beats\\"
+    },
+    "host": {
+      "port": "8002"
+    },
+    "dev": {
+      "debug": false
+    }
+  }
+}
