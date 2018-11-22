@@ -1,7 +1,7 @@
 {
   "settings": {
     "folder": {
-      "instaPy": "C:\\Users\\TITI\\AppData\\Local\\Programs\\Python\\Python35-32\\Lib\\site-packages\\logs\\esquisse_beats\\"
+      "instaPy": "YOUR\\PATH\\TO\\YOUR\\LOGS\\FOLDER"
     },
     "host": {
       "port": "8002"
